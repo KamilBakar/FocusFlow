@@ -1,18 +1,71 @@
-# React + Vite
+FocusFlow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FocusFlow is a React-based self-study and productivity web application designed to help students organise their workload, maintain focus, and build consistent study habits.
 
-Currently, two official plugins are available:
+Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Task Management — Organise and manage study tasks.
 
-## React Compiler
+Study Journal — Record thoughts, reflections, and study progress.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+Pomodoro Timer — Use timed focus sessions to support productive study.
 
-Note: This will impact Vite dev & build performances.
+Motivational Messages — Stay motivated while working towards your goals.
 
-## Expanding the ESLint configuration
+Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+React
+
+JavaScript
+
+Vite
+
+HTML5
+
+CSS3
+
+ESLint
+
+Getting Started
+
+Prerequisites
+
+Make sure you have Node.js and npm installed.
+
+Installation
+
+Clone the repository:
+
+git clone https://github.com/KamilBakar/FocusFlow.git
+
+Navigate into the project directory:
+
+cd FocusFlow
+
+Install the dependencies:
+
+npm install
+
+Start the development server:
+
+npm run dev
+
+Open the local URL displayed in your terminal.
+
+Development
+
+To create a production build, run:
+
+npm run build
+
+To check the code using ESLint, run:
+
+npm run lint
+
+Project Purpose
+
+FocusFlow aims to provide students with a centralised space for managing tasks, reflecting on their learning, and maintaining focus during independent study.
+
+Author
+
+Developed as a personal software development project.
